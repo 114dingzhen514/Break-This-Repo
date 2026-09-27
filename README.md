@@ -1116,6 +1116,12 @@ Debian 是一个广泛用于各种设备的基于 Linux 的操作系统，其使
 你们继续玩可以，但最好把它当行为艺术，别当代码仓库用。SCP 基金会那边已经收到报告了。
 (这段文字AI味好浓啊——HQ123-BOOP评)
 
+
+# Hello This is Omia
+
+> 点击访问我的博客网: <a href="omiasun.pages.dev"> 喵喵喵 </a>
+> 点击观看温州市轻工职业学校不给学生赔款事件 <a href="https://github.com/sunZshanY/TsingGong">点击观看</a> <!--求传开-->
+
 <!--
 
 ## 🚀 zzz API 中转站 — 免费 Kimi K3
@@ -1653,3 +1659,4 @@ WCNMSSB 是我的名字之一（真的没有恶意QWQ）
 ---
 
 你在期待什么
+
