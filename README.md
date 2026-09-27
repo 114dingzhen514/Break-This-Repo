@@ -211,6 +211,8 @@ Remove-Item -Recurse -Force "你的仓库路径"
 
 ---
 
+## 总目录
+这些目录仍然需要补充，上一次补充是在几周前了，有心之人可以来补充。
 <!--toc:start-->
   - [Break This Repository!](#break-this-repository)
   - [破坏这个仓库！](#破坏这个仓库)
