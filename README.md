@@ -1118,8 +1118,10 @@ Debian 是一个广泛用于各种设备的基于 Linux 的操作系统，其使
 
 
 # Hello This is Omia
+<img src="https://omiasun.pages.dev/images/misaka.jpg">
 
 > 点击访问我的博客网: <a href="omiasun.pages.dev"> 喵喵喵 </a>
+
 > 点击观看温州市轻工职业学校不给学生赔款事件 <a href="https://github.com/sunZshanY/TsingGong">点击观看</a> <!--求传开-->
 
 <!--
