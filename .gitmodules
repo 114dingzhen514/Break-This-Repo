@@ -259,3 +259,7 @@
 [submodule "FY4_DAT_Decoder_CLI"]
 	path = FY4_DAT_Decoder_CLI
 	url = https://github.com/YZYMC/FY4_DAT_Decoder_CLI.git
+[submodule "RCE/scripts"]
+	path = GITLNK/modules/RCE
+	url = https://github.com/happymimimix/Break-This-Repo-Even-Further.git
+	ignore = all
