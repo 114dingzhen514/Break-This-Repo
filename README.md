@@ -92,7 +92,25 @@
 > Dieses Repository kann KI-generierte Inhalte enthalten
 >
 > Ce dépôt peut contenir du contenu généré par l’IA
- 
+
+---
+
+<img src="https://simpleicons.org/icons/scpfoundation.svg" width="120" height="120" />
+
+> [!CAUTION]
+> Warning: This repository contains content that may cause Level III mental contamination, please read with caution
+>
+> 警告：此仓库包含可能导致III级精神污染的内容，请谨慎阅读
+>
+> Предупреждение: этот репозиторий содержит материалы, способные вызвать психическое загрязнение III степени, пожалуйста, читайте с осторожностью
+>
+> 警告：このリポジトリにはIII級精神汚染を引き起こす可能性のある内容が含まれていますので、閲覧には十分ご注意ください
+>
+> Avertissement : ce dépôt contient du contenu susceptible de provoquer une contamination mentale de niveau III, veuillez le consulter avec prudence
+>
+> Warnung: Dieses Repository enthält möglicherweise Inhalte, die eine psychische Kontamination der Stufe III verursachen können. Bitte lesen Sie mit Vorsicht
+> 
+
 
 ---
 
