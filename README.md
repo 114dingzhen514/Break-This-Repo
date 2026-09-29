@@ -4,7 +4,7 @@
   <img src="./readme/hide.png">
     Break This Repository!    破坏这个仓库！
 	<p align="center">
-	    <img src="https://img.shields.io/badge/License-Unknown-red?logo=inquirer&logoColor=white" alt="License">
+	    <img src="https://img.shields.io/badge/License-AS--IS-red" alt="License">
 	    <img src="https://img.shields.io/badge/Language-various-blue?logo=inquirer&logoColor=white" alt="Language">
 	    <img src="https://img.shields.io/badge/Pull_Requests-infinity-white?logo=infinityfree&logoColor=white" alt="Pull_Requests">
 	    <img src="https://img.shields.io/badge/Forks-infinity-brown?logo=infinityfree&logoColor=white" alt="Forks">
