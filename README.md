@@ -28,6 +28,24 @@
 
 ---
 
+> [!CAUTION]
+> 🍔 **LOLCODE TAKEOVER**
+>
+> `VISIBLE "THIS REPO IS NOW A LOLCODE PROGRAM." KTHXBAI`
+>
+> 这个仓库现在是一个 LOLCODE 程序了。`translations/` 里的 **52 种人类语言**，
+> 已经被编译成 **1 种编程语言**（LOLCODE）。产物：**1.42 MB / 26,104 行，真的能跑。**
+>
+> ```bash
+> python LOLCODE/lolrun.py LOLCODE/BREAK_THIS_REPO.lol
+> ```
+>
+> 👉 [**LOLCODE/**](./LOLCODE/) —— 顺便一提：这个仓库的**语言统计条已经被 GitHub 关掉了**，
+> 原因和实锤都写在里面。
+
+
+---
+
 > [!NOTE]
 > read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before using
 
